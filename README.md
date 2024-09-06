@@ -1,9 +1,10 @@
 <div align="center">
 <img src="https://media.tenor.com/L4TD4MWFy40AAAAj/kirby.gif"> 
 
-> "AAAAAAAAaaa!" -Kirby
+> "Hi!" -Kirby
 </div>
 
+<img src="Pikachu wave.gif" width="40px"> 
 <!--
 **FeMeNiKi/FeMeNiKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
