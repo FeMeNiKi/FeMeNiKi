@@ -1,4 +1,4 @@
-## Hi there 👋
+<img align="center" src="https://media.giphy.com/media/TqK5V0YnrWaR2/giphy.gif" width="400px" height="200px">
 
 <!--
 **FeMeNiKi/FeMeNiKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
