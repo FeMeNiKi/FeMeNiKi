@@ -2,11 +2,13 @@
 <img src="https://media.tenor.com/L4TD4MWFy40AAAAj/kirby.gif"> 
 
 > "Hi!" -Kirby
-</div>
 
 -------------
 
-<img src="Pikachu wave.gif" width="40px"> 
+🌸 Hello! I'm Fernanda Kikuchi, a brasilian computer science student.
+
+![FeMeNiKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeMeNiKi&show_icons=true&theme=tokyonight)
+
 <!--
 **FeMeNiKi/FeMeNiKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
