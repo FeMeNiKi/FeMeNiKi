@@ -5,7 +5,19 @@
 
 -------------
 
-🌸 Hello! I'm Fernanda Kikuchi, a brasilian computer science student.
+🌸 Hello! I'm Fernanda Kikuchi, a brasilian computer science student;
+
+📚 Currently learning from DIO and CEUB;
+
+⭐ Goals:
+
+[ ]Code in Java
+
+[ ]Code in C, C++
+
+[ ]Create a small game
+
+-------------
 
 ![FeMeNiKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeMeNiKi&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeMeNiKi&hide_progress=true&theme=midnight-purple)
