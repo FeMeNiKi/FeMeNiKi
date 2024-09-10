@@ -9,7 +9,7 @@
 
 ![FeMeNiKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeMeNiKi&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeMeNiKi&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeMeNiKi&hide_progress=true&theme=midnight-purple)
 
 <!--
 **FeMeNiKi/FeMeNiKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
