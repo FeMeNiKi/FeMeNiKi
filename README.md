@@ -1,24 +1,21 @@
 <div align="center">
 <img src="https://media.tenor.com/L4TD4MWFy40AAAAj/kirby.gif"> 
 
-> "Hi!" -Kirby
-
--------------
-
+<h2>Welcome to my GitHub</h2>
 🌸 Hello! I'm Fernanda Kikuchi, a brasilian computer science student;
 
 📚 Currently learning from DIO and CEUB;
 
-⭐ Goals:
+---
+<div align="left">
+<h4>✨ Working on learning: </h4>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg height=30px>
+<img width="6"/>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg height=30px>
+<img width="6"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=30px> 
 
-[ ]Code in Java
-
-[ ]Code in C, C++
-
-[ ]Create a small game
-
--------------
-
+---
 ![FeMeNiKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeMeNiKi&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeMeNiKi&hide_progress=true&theme=midnight-purple)
 
