@@ -16,8 +16,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=30px> 
 
 ---
-![FeMeNiKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeMeNiKi&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeMeNiKi&hide_progress=true&theme=midnight-purple)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=FeMeNiKi&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="width: 52%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeMeNiKi&layout=compact&theme=midnight-purple" alt="Top Languages" style="width: 40%;">
+</div>
 
 <!--
 **FeMeNiKi/FeMeNiKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
